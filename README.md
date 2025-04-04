@@ -51,7 +51,6 @@ This is a Django-based music streaming project that allows users to upload and s
 ## License
 This project is licensed under the MIT License.
 
-## Author
-Gajendra Singh
+
 
 
